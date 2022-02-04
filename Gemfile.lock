@@ -198,7 +198,7 @@ GEM
     zeitwerk (2.5.4)
 
 PLATFORMS
-  x64-mingw32
+
 
 DEPENDENCIES
   bootsnap (>= 1.4.4)
